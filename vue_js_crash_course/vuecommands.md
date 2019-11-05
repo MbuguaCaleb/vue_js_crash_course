@@ -50,5 +50,21 @@ Rendering the passed props is achieved by another directive called (v-for)
 (f)when you loop through both in vue JS and react you need a unique key (thus providing
 a unique key is the way to work throughg the eslint error)It should be a unique value
 
+props shows what a particular component will expect as state data!
 
+
+The best term to use is that you are accepting a props!!(v bind is more like if you are passing something ..It may be a style as well!)
+
+
+v-on in this project is an event(V-on directive is used to add events in vueJS!)
+
+(g)VueJS Methods for events are defined from the script section
+
+
+(h)We use emitters to advance to the adjacent states from the adjacent componets!!
+
+{example-> traversing to where the state is so that you can be able to delete!}
+
+
+(i)Filter Highorder method does a filter based on the condition!
 ```
