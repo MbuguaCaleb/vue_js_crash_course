@@ -67,4 +67,6 @@ v-on in this project is an event(V-on directive is used to add events in vueJS!)
 
 
 (i)Filter Highorder method does a filter based on the condition!
+
+(j)the vue router is used to render the pages...eg Home and about page!!
 ```
