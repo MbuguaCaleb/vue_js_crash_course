@@ -35,6 +35,8 @@ It seems to be the easiest to learn when compared to react and angular
 (c)Exteremely fast and lightweight...Just like react it is a single page application framework..Which means that one page is  loaded in the browser then everything else is done from a virtual DOM.
 
 (d)Build powerful SPA apps.
+Only one page is loaded in the browser then the rest rendered in or via the virtual DOM.
+This you can update only sections of the page as need be.
 
 (e)Virtual DOM.
 
@@ -57,8 +59,7 @@ Vue also is comprised as separate components...
 
 Components interact with each other through props..
 
-You can also use a state management system eg vuex
-
+You can also use a state management system eg vuex.
 Each component can hold its own data as well as can hold its own methods
 
 You can also use directives inisfrom inside the components.
