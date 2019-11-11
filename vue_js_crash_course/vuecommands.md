@@ -69,4 +69,22 @@ v-on in this project is an event(V-on directive is used to add events in vueJS!)
 (i)Filter Highorder method does a filter based on the condition!
 
 (j)the vue router is used to render the pages...eg Home and about page!!
+
+(k)remember state is added as data function attrbute!
+
+(l)Eventa are very important because they are the ones which trigger actions!!
+
+(m)the state in VUE JS Is carried in the component data(){
+
+
+}
+
+(n)(v-model) vue JS Directive is used when you are passing data which
+is creating a new data set from the state....it is used in binding a new state.
+
+When passing data from one component to another you emit an event.
+v-on used to catch an emit from prev component
+
+
+
 ```
