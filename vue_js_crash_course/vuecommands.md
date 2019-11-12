@@ -86,5 +86,17 @@ When passing data from one component to another you emit an event.
 v-on used to catch an emit from prev component
 
 
+(o)addtodo-via-emit-event-and-v-model-v-on....
+
+
+(p)component did mount is a special type of function that fires of when a component loads..
+
+
+(q)Making requests to an external api----axios a great alternative!!also fetch api....axios returns a promise and when ever you return a promise you can catch
+an error too....axios paradigm..retuns a promise!!!!
+and last parameter is cathchig an error
+
+(r)Axios is a javasript library that can be used to make http requests just like jquery...fetch is also
+another one..!Axios takes .then and .catch for http errors
 
 ```
