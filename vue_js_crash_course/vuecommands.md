@@ -99,4 +99,7 @@ and last parameter is cathchig an error
 (r)Axios is a javasript library that can be used to make http requests just like jquery...fetch is also
 another one..!Axios takes .then and .catch for http errors
 
+
+(k)vue and react router enable you to change a page without reload..
+It is advidable to begin istalling vue together with the router as you initialize your project..!!
 ```
